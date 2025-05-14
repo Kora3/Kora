@@ -33,6 +33,5 @@ Passionné par le développement d'applications mobiles et backend, j'ai travail
 - **Outils & Frameworks** : WebSocket, Socket.io  
 
 ## 📫 Me Contacter  
-- **GitHub** : [VotreProfil](https://github.com/VotreProfil)  
-- **LinkedIn** : [Votre LinkedIn](#)  
-- **Email** : [Votre Email](#)  
+- **LinkedIn** : [LinkedIn](https://linkedin.com/in/landry-nignan-5317921a6)  
+- **Email** : [Email](koracryptowallet@gmail.com)  
