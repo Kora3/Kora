@@ -28,9 +28,9 @@ Passionné par le développement d'applications mobiles et backend, j'ai travail
 | **Faso Connect** | Mise en relation professionnelle | Flutter | [Android](#) • [iOS](#) |
 
 ## 💡 Technologies et Outils  
-- **Langages** : Dart (Flutter), Python (Django, FastAPI), TypeScript (Node.js)  
+- **Langages** : Dart (Flutter), Python (Django, FastAPI), Node.js (JavaScript, TypeScript)  
 - **Bases de données** : MongoDB, PostgreSQL  
-- **Outils & Frameworks** : WebSocket, Socket.io  
+- **Outils & Frameworks** : WebSocket, Socket.io, Redis, Docker, AWS
 
 ## 📫 Me Contacter  
 - **LinkedIn** : [LinkedIn](https://linkedin.com/in/landry-nignan-5317921a6)  
